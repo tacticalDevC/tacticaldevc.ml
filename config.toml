@@ -1,0 +1,18 @@
+baseURL = "http://example.org/"
+languageCode = "de-at"
+title = "tacticalDevC"
+theme = "m10c"
+
+
+[params]
+	author = "tacticalDevC"
+	description = "Welcome to my little blog somewhere in this internet! Here I will publish posts about releases, ongoing developments and things that happen in cyberspace. It will be more like cybersecurity stuff when we talk about cyberspace. Nonetheless have fun! Oh and you can always contact me on all the channels linked below."
+	[[params.social]]
+		name = "github"
+		url = "https://github.com/tacticalDevC"
+	[[params.social]]
+		name = "twitter"
+		url = "https://twitter.com/tacticalDevC"
+	[[params.social]]
+		name = "key"
+		url = "https://keybase.io/tacticaldevc"
