@@ -1,4 +1,4 @@
-baseURL = "http://tacticaldevc.ml/"
+baseURL = "https://tacticaldevc.ml/"
 languageCode = "de-at"
 title = "tacticalDevC"
 theme = "m10c"
