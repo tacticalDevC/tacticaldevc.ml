@@ -16,3 +16,6 @@ theme = "m10c"
 	[[params.social]]
 		name = "key"
 		url = "https://keybase.io/tacticaldevc"
+	[[params.social]]
+		name = "mail"
+		url = "mailto:tacticaldevc@tutanota.com"
