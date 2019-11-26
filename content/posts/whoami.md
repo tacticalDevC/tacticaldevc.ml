@@ -1,7 +1,7 @@
 ---
 title: "whoami"
 date: 2019-11-25T13:19:46+01:00
-draft: true
+draft: false
 ---
 
 ## tacticaldevc@your-network:~$ whois tacticalDevC
