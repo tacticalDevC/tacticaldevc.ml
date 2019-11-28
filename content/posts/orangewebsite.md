@@ -9,7 +9,7 @@ Today I searched for a new domain name registrar for my blog domain. What I foun
 See for yourself!
 
 ## Wait... what is this even about?
-A domain registrar! Orangewebsite claims to be a 100% icelandig company. In this post I will show you what convinced me to buy that domain, the conversation between me and the support and how I found out that they actually aren't that what we think of Orange is.
+A domain registrar! Orangewebsite claims to be a 100% icelandig company. In this post I will show you what convinced me to buy that domain, the conversation between me and the support and how I found out that they actually aren't that what we think of Orangewebsite is.
 
 ## TL;DR
 Orangewebsite might be a Hong Kong owned company which claims to be Icelandic. In WHOIS they hide their own data (why should they?) using a WHOIS Privacy proxy. That proxy unveils the owner if a subpoena (or NSL) is received. The proxy and it's hoster are based in the US and run on AWS.
@@ -70,3 +70,7 @@ We have a company:
   - or doesn't publish a statement
  - which 2nd Level Support isn't really friendly or helpful
 
+
+Notes:
+ - PayPal nach Zahlungsinformationen fragen
+ - Isländische Regierung befragen (Firmengrundbuch)
