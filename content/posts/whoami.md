@@ -14,7 +14,7 @@ This should just be a article about me. It should help you people to understand 
 
 Well I am a student. Judge me for that or not. Currently I am attending a school in Vienna called Spengergasse. It might be well known for people who live in the EU or Austria. For those who don't know what this school is about: It is primarily an IT school but there are other branches too like biomedicine or industrial engineering. I don't want to go any further as I would like to stay more or less anonymous. I know, I know I already compromised my own anonymity but you can research me on the internet if you are really that curious ;)
 
-In my free time I program apps (see my [github](https://github.com/tacticalDevC)) or try to hack around. I am constantly learning new things from the cyberverse that I try to implement in my home network (eg Pi-hole). On of my greatest ideas so far were the [PanicTrigger](https://github.com/tacticalDevC/PanicTrigger.git). Another project which is currently in development is [O.A.T.](https://github.com/tacticalDevC/OAT.git). My intention is to program apps that I haven't seen in public in any relateable form. 
+In my free time I program apps (see my [github](https://github.com/tacticalDevC)) or try to hack around. I am constantly learning new things from the cyberverse that I try to implement in my home network (eg Pi-hole). One of my greatest ideas so far were the [PanicTrigger](https://github.com/tacticalDevC/PanicTrigger.git). Another project which is currently in development is [O.A.T.](https://github.com/tacticalDevC/OAT.git). My intention is to program apps that I haven't seen in public in any relateable form. 
 
 I won't say I am new to the topics I care about but I still have to grow.
 
